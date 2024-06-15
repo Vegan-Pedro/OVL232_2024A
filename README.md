@@ -3,3 +3,4 @@ Turma de Métodos Computacionais de Astronomia  do Observatório do Valongo - UF
 
 Não posso reprovar esta matéria
 Não pretendo 
+vai não confia
